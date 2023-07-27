@@ -2,6 +2,8 @@
 
 A simple program for watching positive and electric charges dance around each other, warping the electric field around them.
 
+Made this in an afternoon. Hello PHY1004W 2023!
+
 ### Vector Field View
 
 ![Vector Field View](screenshots/arrows.png)
